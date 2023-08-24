@@ -24,6 +24,6 @@ python wttr_in.py
 ## Example Output
 
 The script will output the weather information for each location in the console.
-![screen1]
-![screen2]
-![screen3]
+![screen1](/screens/London.png)
+![screen2](/screens/Sheremetyevo.png)
+![screen3](/screens/Cherepovec.png)
